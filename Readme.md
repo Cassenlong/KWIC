@@ -50,8 +50,6 @@ KWIC/
 │   ├── shift.py        # 循环移位模块
 │   └── sort.py         # 排序模块
 │
-├── Phase1_final.pptx   # 第一阶段汇报材料
-├── Phase2_final.pptx   # 第二阶段汇报材料
 └── Readme.md           # 项目说明文档
 ```
 
